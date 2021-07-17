@@ -1,0 +1,48 @@
+.intro{
+    width: 100%;
+    height: 700px;
+    min-height: 40vh;
+    max-height: 80vh;
+
+    background: url('./statics/ella-olsson-4dQiaWKiL-Y-unsplash.jpg');
+    background-position: center;
+    background-size: cover;
+
+    display: grid;
+    align-items: center;
+    justify-content: center;
+
+    color: #252525;
+}
+.intro-dial{
+    text-align: center;
+    font-size: 1.5em;
+}
+.intro-dial > *{
+    padding: 10px;
+}
+.intro-dial > h1{
+    font-family: 'Leckerli One', sans-serif;
+    font-size: 4em;
+    color: #252525;
+}
+.idp{
+    letter-spacing: 15px;
+    font-weight: bold;
+    color: #57cf07;
+}
+.idp-1{
+    font-size: 0.8em;
+    word-spacing: 5px;
+    text-transform: capitalize;
+}
+div.hr{
+    padding: 0;
+    height: 5px;
+    width: 25%;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 2px;
+    background: #57cf07;
+}
+

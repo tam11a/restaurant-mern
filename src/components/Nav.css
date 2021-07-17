@@ -1,0 +1,11 @@
+.Nav{
+    padding: 25px 20px;   
+}
+.Nav > ul {
+    list-style: none;
+    text-transform: capitalize;
+}
+.Nav > ul > li{
+    margin: 0 10px;
+    font-size: 1.3em;
+}
